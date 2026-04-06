@@ -3,4 +3,4 @@
 <br>
 <h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
-<img src="">
+<img src="https://github.com/limaribeiroabraaolimaribeiro-afk/Easy-shopping/blob/main/img/Easy%20Shopping.png?raw=true">
